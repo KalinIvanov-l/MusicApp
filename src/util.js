@@ -4,7 +4,7 @@ function chillHop() {
   return [
     {
       name: "Dreaming",
-      artist: "Misha, Jussi Halme, El Train, goodie bags",
+      artist: "Misha, Jussi Halme",
       cover:
         "https://chillhop.com/wp-content/uploads/2022/12/b48463b9b5a0351cc2f34b31fcee6185fdb03bb5-1024x1024.jpg",
       id: uuidv4(),
