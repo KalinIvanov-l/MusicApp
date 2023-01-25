@@ -21,7 +21,7 @@
     width: 35%;
   }
   &:hover {
-    background: rgb(188, 178, 234);
+    background: rgb(156, 223, 232);
   }
 }
 
@@ -38,4 +38,8 @@
 * {
   scrollbar-width: thin;
   scrollbar-color: rgba(155, 155, 155, 05) transparent;
+}
+
+.selected {
+  background: rgb(156, 223, 232);
 }
